@@ -1,0 +1,55 @@
+{
+  "register": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 7.99,
+      "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXWKJ6A/200/200/original?country=br"
+    },
+    {
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 8.99,
+      "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXxD5Xb/200/200/original?country=br"
+    },
+    {
+      "id": 3,
+      "name": "X-Salada",
+      "category": "Sanduíches",
+      "price": 10.99,
+      "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kUXtEljn/200/200/original?country=br"
+    },
+    {
+      "id": 4,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 16.99,
+      "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kUXLdrTK/200/200/original?country=br"
+    },
+    {
+      "id": 5,
+      "name": "Guaraná",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://trimais.vteximg.com.br/arquivos/ids/1003097-1000-1000/foto_original.jpg?v=637395796273370000"
+    },
+    {
+      "id": 6,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://s.cornershopapp.com/product-images/1983811.png?versionid=1RB2y3a9XlTKLJOoc8C7qMBwva5Dq3be"
+    },
+    {
+      "id": 7,
+      "name": "Fanta",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://trimais.vteximg.com.br/arquivos/ids/1019999-1000-1000/foto_original.jpg?v=637490859270270000"
+    }
+  ],
+  "cart": []
+}
