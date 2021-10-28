@@ -1,5 +1,5 @@
 {
-  "register": [],
+  "users": [],
   "products": [
     {
       "id": 1,
@@ -49,6 +49,18 @@
       "category": "Bebidas",
       "price": 4.99,
       "img": "https://trimais.vteximg.com.br/arquivos/ids/1019999-1000-1000/foto_original.jpg?v=637490859270270000"
+    },
+    {
+      "title": "Labirinto do Fauno",
+      "published": "Darkside",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "title": "Labirinto do Fauno",
+      "published": "Darkside",
+      "userId": 1,
+      "id": 9
     }
   ],
   "cart": []
