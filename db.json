@@ -3,7 +3,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Hamburguer",
+      "name": "Mac Kenzie",
       "category": "Sanduíches",
       "price": 7.99,
       "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXWKJ6A/200/200/original?country=br"
@@ -17,38 +17,45 @@
     },
     {
       "id": 3,
-      "name": "X-Salada",
+      "name": "Hamburguer",
       "category": "Sanduíches",
-      "price": 10.99,
-      "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kUXtEljn/200/200/original?country=br"
+      "price": 14.0,
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
     },
     {
       "id": 4,
-      "name": "Big Kenzie",
+      "name": "X-Burguer",
       "category": "Sanduíches",
-      "price": 16.99,
-      "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kUXLdrTK/200/200/original?country=br"
+      "price": 16.0,
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
     },
     {
       "id": 5,
-      "name": "Guaraná",
-      "category": "Bebidas",
-      "price": 4.99,
-      "img": "https://trimais.vteximg.com.br/arquivos/ids/1003097-1000-1000/foto_original.jpg?v=637395796273370000"
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 18.0,
+      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png"
     },
     {
       "id": 6,
-      "name": "Coca",
+      "name": "Fanta Guaraná",
       "category": "Bebidas",
-      "price": 4.99,
-      "img": "https://s.cornershopapp.com/product-images/1983811.png?versionid=1RB2y3a9XlTKLJOoc8C7qMBwva5Dq3be"
+      "price": 5.0,
+      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png"
     },
     {
       "id": 7,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
+    },
+    {
+      "id": 8,
       "name": "Fanta",
       "category": "Bebidas",
       "price": 4.99,
-      "img": "https://trimais.vteximg.com.br/arquivos/ids/1019999-1000-1000/foto_original.jpg?v=637490859270270000"
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png"
     }
   ],
   "cart": []
