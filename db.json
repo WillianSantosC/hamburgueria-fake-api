@@ -2,56 +2,48 @@
   "users": [],
   "products": [
     {
-      "id": 1,
       "name": "Mac Kenzie",
       "category": "Sanduíches",
       "price": 7.99,
       "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXWKJ6A/200/200/original?country=br"
     },
     {
-      "id": 2,
       "name": "X-Burguer",
       "category": "Sanduíches",
       "price": 8.99,
       "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXxD5Xb/200/200/original?country=br"
     },
     {
-      "id": 3,
       "name": "Hamburguer",
       "category": "Sanduíches",
       "price": 14.0,
       "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
     },
     {
-      "id": 4,
       "name": "X-Burguer",
       "category": "Sanduíches",
       "price": 16.0,
       "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
     },
     {
-      "id": 5,
       "name": "Big Kenzie",
       "category": "Sanduíches",
       "price": 18.0,
       "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png"
     },
     {
-      "id": 6,
       "name": "Fanta Guaraná",
       "category": "Bebidas",
       "price": 5.0,
       "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png"
     },
     {
-      "id": 7,
       "name": "Coca",
       "category": "Bebidas",
       "price": 4.99,
       "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
     },
     {
-      "id": 8,
       "name": "Fanta",
       "category": "Bebidas",
       "price": 4.99,
