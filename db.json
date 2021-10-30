@@ -10,7 +10,7 @@
     {
       "name": "X-Burguer",
       "category": "Sanduíches",
-      "price": 8.99,
+      "price": 16.0,
       "img": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXxD5Xb/200/200/original?country=br"
     },
     {
@@ -20,9 +20,9 @@
       "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
     },
     {
-      "name": "X-Burguer",
+      "name": "Burguer Kenzie",
       "category": "Sanduíches",
-      "price": 16.0,
+      "price": 8.99,
       "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
     },
     {
@@ -44,9 +44,9 @@
       "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
     },
     {
-      "name": "Fanta",
+      "name": "Ovomaltine",
       "category": "Bebidas",
-      "price": 4.99,
+      "price": 6.99,
       "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png"
     }
   ],
